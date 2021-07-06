@@ -6,13 +6,13 @@ This project consists of two parts:
 ## Task 1: Set up Project
 You will need to follow the Lambda School Git Workflow to add a file to this project follow the steps below:
 
-- [ ] Create your own version of this repo - Fork
-- [ ] Clone this repo
-- [ ] Create a branch `git checkout -b 'firstName-lastName'`
-  - [ ] Add a file to the project called `yourFirstName-yourLastName`.txt. This should contain the link to your completed codepen from part 2 as well as the review questions/answers
-  - [ ] Run your usual git commands for adding/committing and pushing **Be sure to push to your branch!**
-- [ ] Create a Pull-Request to submit your work
-  - [ ] Use your own student fork as the base (compare across forks, base-fork -> main).
+- [ x] Create your own version of this repo - Fork
+- [ x] Clone this repo
+- [ x] Create a branch `git checkout -b 'firstName-lastName'`
+  - [x ] Add a file to the project called `yourFirstName-yourLastName`.txt. This should contain the link to your completed codepen from part 2 as well as the review questions/answers
+  - [ x] Run your usual git commands for adding/committing and pushing **Be sure to push to your branch!**
+- [ x] Create a Pull-Request to submit your work
+  - [ x] Use your own student fork as the base (compare across forks, base-fork -> main).
 
 
 ## Task 2: MVP
@@ -21,6 +21,8 @@ You will need to follow the Lambda School Git Workflow to add a file to this pro
 * this should be review from yesterday/ extra practice
 3. After you are finished please copy the review questions into your .txt file and answer them
 4. don't forget to add, commit and push your changes.
+
+[https://codepen.io/Aloofborgar/pen/JjNGQPv?editors=1100]
 
 
 ## Task 3: Stretch
